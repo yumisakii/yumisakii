@@ -1,86 +1,72 @@
-## Hi there 👋
-# 👋 Jonathan de Vaulchier — Développeur de jeux vidéo
+# 👋 Hi, I'm Jonathan de Vaulchier
 
-🎮 **Étudiant en 3ᵉ année à [Gaming Campus - G.Tech](https://gamingcampus.fr/ecoles/ecole-developpeur-jeux-video-g-tech.html)**  
-💡 Passionné par la programmation et le jeu vidéo.
-🎯 Actuellement à la recherche d’un **stage de 3 mois pour l’été 2025**, puis d’une **alternance à partir de septembre 2025**.
-
----
-
-## 🧬 À propos de moi
-
-- 💻 Développeur orienté **C# / Unity**   
-- 📍 Basé en région parisienne (France)  
-- 🕹️ J’aime créer des mécaniques immersives et créer des unvers riches en histoire et en lore.  
-- ✉️ Me contacter : [jonathan.devaulchier@orange.fr](mailto:jonathan.devaulchier@orange.fr)
+🎮 **Game Development Student @ [Gaming Campus – G.Tech](https://gamingcampus.fr/ecoles/ecole-developpeur-jeux-video-g-tech.html)**  
+💻 Passionate about **game programming**, **AI**, and **game systems design**.  
+🌍 Based in France.  
+📧 [jonathan.devaulchier.dev@gmail.com](mailto:jonathan.devaulchier.dev@gmail.com)
 
 ---
 
-## 🚀 Projets terminés
+## 🧬 About Me
 
-### 🧩 **Inventory System (Unity 6)**
-> Système complet d’inventaire pour RPG — UI, drag & drop, empilement, rareté, tooltip, équipement, sauvegarde.
+I'm **Jonathan**, a 20-year-old student currently in my third year at **Gaming Campus – G.Tech**.  
+I’m deeply passionate about **game programming** and how code can bring mechanics, stories, and worlds to life.  
+I enjoy designing **immersive gameplay systems**, experimenting with **AI behaviors**, and creating **modular, reusable code architectures** in Unity.
 
-- 🎯 Objectif : créer une base modulaire et extensible pour tout jeu Unity.
-- 🧠 Fonctionnalités : inventaire visuel, interaction joueur, sauvegarde des données entre scènes.
-- 🔗 [Lien GitHub du projet](https://github.com/tonpseudo/InventorySystem) *(à remplacer)*
-
----
-
-### ⚔️ **2D Strategy AI Project**
-> Jeu de stratégie 2D avec IA multi-couches et comportement adaptatif.
-
-- 🧩 Utilise un **Behavior Tree** et des **FSM imbriquées** pour contrôler plusieurs agents.
-- 🎮 Objectif pédagogique : comprendre les systèmes d’IA et leur architecture.
-- 🔗 [Lien GitHub du projet](https://github.com/tonpseudo/StrategyAIProject) *(à remplacer)*
+I believe in learning by building — every project I make, whether it’s a small prototype or a full gameplay system, helps me grow as a developer and storyteller.  
+I’m currently looking for a **2–3 month internship for Summer 2025**, and later a **work-study position starting September 2025** in game programming.
 
 ---
 
-### 🔥 **Mini Platformer Prototype**
-> Prototype de platformer en C# avec gestion d’inputs, saut, dash et slide (Unity Input System).
+## 🚀 Projects
 
-- 🕹️ Inputs gérés via `PlayerInput` + événements Unity.
-- ⚙️ Test de physique et de réactivité du joueur.
-- 🔗 [Lien GitHub du projet](https://github.com/tonpseudo/PlatformerPrototype) *(à remplacer)*
+### ✅ Finished Projects
 
----
+#### 🐦 [Boids Simulation](https://github.com/yumisakii/Boids)
+A Unity 6 simulation project inspired by **flocking behavior** in nature.  
+Built entirely in C# to explore **object-oriented design**, **emergent behavior**, and **parameter tuning via the Unity Inspector**.  
+> Focused on class inheritance, behavior modularity, and real-time control.
 
-## 🧪 Projets en cours
-
-### 🩸 **Chymora**
-> RPG 3D — Le joueur absorbe ses ennemis pour évoluer et muter.  
-> Basé sur un système d’absorption, de faim et d’équilibre entre humanité et monstruosité.
-
-- 🌍 Vue du dessus 3D (Unity 6)
-- 🧬 Systèmes : absorption d’ennemis, gain de statistiques, mutations
-- 🧠 IA via Behavior Tree / ScriptableObjects
-- 💾 Progression persistante entre les scènes
-- 🔗 [Dépôt GitHub (privé ou en développement)](https://github.com/tonpseudo/Chymora) *(à remplacer)*
+#### 🧰 [Inventory System (from *Chymora*)](https://github.com/yumisakii/InventorySystem)
+A complete **inventory system prototype** built for the *Chymora* RPG project.  
+Features **stackable items**, **drag & drop**, **item rarity**, and a **modular UI**.  
+> Designed for extensibility and easy integration into larger Unity projects.
 
 ---
 
-## 🛠️ Compétences techniques
+### 🔧 In Progress
 
-| Catégorie | Compétences |
-|------------|-------------|
-| **Langages** | C#, C++, Python, HTML/CSS/JS/PHP |
-| **Moteur** | Unity 3D (6.x) |
-| **Outils** | Git, GitHub, Visual Studio, Trello, Figma |
-| **Méthodes** | Architecture orientée objet, Modularité, Design Patterns, IA (FSM / Behavior Tree) |
+#### ⚔️ [Deep in His Sanctuary](https://github.com/yumisakii/DeepInHisSanctuary)
+A **2D roguelike game built in Unity 6**, based on a previous text-based prototype.  
+Currently focused on **combat, loot, and data persistence** systems using JSON serialization.  
+> The project aims to evolve into a complete and replayable roguelike experience.
 
 ---
 
-<!--
-**yumisakii/yumisakii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 Skills
 
-Here are some ideas to get you started:
+| Category | Tools / Technologies |
+|-----------|----------------------|
+| **Languages** | C#, C++ |
+| **Engine** | Unity 6 |
+| **Tools** | Visual Studio, Git, Trello, Figma |
+| **Concepts** | Gameplay Programming, AI, UI Systems, Data Persistence, OOP |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧩 GitHub Stats
+
+![Jonathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yumisakii&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yumisakii&layout=compact&theme=tokyonight)
+
+---
+
+## ✉️ Contact
+
+📧 [jonathan.devaulchier.dev@gmail.com](mailto:jonathan.devaulchier.dev@gmail.com)  
+🔗 [GitHub Profile](https://github.com/yumisakii)  
+🎓 [Gaming Campus – G.Tech](https://gamingcampus.fr/ecoles/ecole-developpeur-jeux-video-g-tech.html)
+
+---
+
+> _“Code creates worlds — and every line shapes the player’s story.”_
