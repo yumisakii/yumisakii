@@ -64,7 +64,7 @@ Currently focused on **combat, loot, and data persistence** systems using JSON s
 ## ✉️ Contact
 
 📧 [jonathan.devaulchier.dev@gmail.com](mailto:jonathan.devaulchier.dev@gmail.com)  
-🔗 [GitHub Profile](https://github.com/yumisakii)  
+🔗 [LinkedIn](linkedin.com/in/jonathan-de-vaulchier-182a35293)
 🎓 [Gaming Campus – G.Tech](https://gamingcampus.fr/ecoles/ecole-developpeur-jeux-video-g-tech.html)
 
 ---
