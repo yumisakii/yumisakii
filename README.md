@@ -14,7 +14,7 @@ I’m deeply passionate about **game programming** and how code can bring mechan
 I enjoy designing **immersive gameplay systems**, experimenting with **AI behaviors**, and creating **modular, reusable code architectures** in Unity.
 
 I believe in learning by building — every project I make, whether it’s a small prototype or a full gameplay system, helps me grow as a developer and storyteller.  
-I’m currently looking for a **2–3 month internship for Summer 2025**, and later a **work-study position starting September 2025** in game programming.
+I’m currently looking for a **5-6 month internship for Summer 2025**, and later a **work-study position starting September 2025** in game programming.
 
 ---
 
