@@ -46,10 +46,7 @@ Currently looking for a **5-6 month internship (Summer 2026)** and a full-time p
 
 * **Email:** [jonathan.devaulchier.dev@gmail.com](mailto:jonathan.devaulchier.dev@gmail.com)
 * **LinkedIn:** [jonathan-de-vaulchier-182a35293](https://linkedin.com/in/jonathan-de-vaulchier-182a35293)
-* **GitHub Stats:**
 
-![Jonathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yumisakii&show_icons=true&theme=tokyonight)
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yumisakii&layout=compact&theme=tokyonight)
+### GitHub Stats
+![Stats de Jonathan](https://github-readme-stats.vercel.app/api?username=yumisakii&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=yumisakii&layout=compact&theme=tokyonight&cache_seconds=1800)
