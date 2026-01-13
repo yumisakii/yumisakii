@@ -49,3 +49,7 @@ Currently looking for a **5-6 month internship (Summer 2026)** and a full-time p
 * **GitHub Stats:**
 
 ![Jonathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yumisakii&show_icons=true&theme=tokyonight)
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yumisakii&layout=compact&theme=tokyonight)
