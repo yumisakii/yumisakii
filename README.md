@@ -12,11 +12,11 @@ Currently looking for a **5-6 month internship (Summer 2026)** and a full-time p
 ### Featured Projects
 * **[Boids Simulation](https://github.com/yumisakii/Boids)** (Unity 6 / C#)
     An exploration of emergent behaviors and flocking algorithms. Focuses on object-oriented design and real-time parameter manipulation via custom inspectors.
-* **[Inventory System](https://github.com/yumisakii/InventorySystem)** (Unity / C#)
+* **[Inventory System](https://github.com/yumisakii/Chymora-prototype-1)** (Unity / C#) https://github.com/yumisakii/InventorySystem
     A robust, data-driven inventory framework featuring stackable items, rarity tiers, and a modular UI. Built to be easily dropped into any RPG project.
 
 ### In Development
-* **[Deep in His Sanctuary](https://github.com/yumisakii/DeepInHisSanctuary)**
+* **[Deep in His Sanctuary](https://github.com/yumisakii/Deep-in-his-Sanctuary)**
     A 2D Roguelike transition from a text-based prototype to a full Unity 6 experience. I'm currently implementing JSON-based data persistence and combat systems.
 
 ---
@@ -48,4 +48,4 @@ Currently looking for a **5-6 month internship (Summer 2026)** and a full-time p
 * **LinkedIn:** [jonathan-de-vaulchier-182a35293](https://linkedin.com/in/jonathan-de-vaulchier-182a35293)
 * **GitHub Stats:**
 
-![Jonathan's Stats](https://github-readme-stats.vercel.app/api?username=yumisakii&show_icons=true&theme=tokyonight&hide_border=true)
+![Jonathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yumisakii&show_icons=true&theme=tokyonight)
