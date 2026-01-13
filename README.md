@@ -3,7 +3,7 @@
 
 I am a French game development student specializing in **systems design**, **AI behaviors**, and **gameplay programming**. I focus on writing modular, scalable C# code and building tools that bridge the gap between design and implementation.
 
-Currently looking for a **5-6 month internship (Summer 2026)** and a full-time position (CDI) starting September 2026.
+Currently looking for a **5-6 month internship** (Summer 2026) and a **full-time position (CDI)** starting September 2026.
 
 ---
 
