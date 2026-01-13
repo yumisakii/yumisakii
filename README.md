@@ -1,68 +1,52 @@
-# 👋 Hi, I'm Jonathan de Vaulchier
+# Jonathan de Vaulchier
+### Game Programmer | 3rd Year Student @ G.Tech (Gaming Campus)
 
-🎮 **Game Development Student @ [Gaming Campus – G.Tech](https://gamingcampus.fr/ecoles/ecole-developpeur-jeux-video-g-tech.html)**  
-💻 Passionate about **game programming**, **AI**, and **game systems design**.  
-🌍 Based in France.  
-📧 [jonathan.devaulchier.dev@gmail.com](mailto:jonathan.devaulchier.dev@gmail.com)
+I am a French game development student specializing in **systems design**, **AI behaviors**, and **gameplay programming**. I focus on writing modular, scalable C# code and building tools that bridge the gap between design and implementation.
 
----
-
-## 🧬 About Me
-
-I'm **Jonathan**, a 20-year-old student currently in my third year at **Gaming Campus – G.Tech**.  
-I’m deeply passionate about **game programming** and how code can bring mechanics, stories, and worlds to life.  
-I enjoy designing **immersive gameplay systems**, experimenting with **AI behaviors**, and creating **modular, reusable code architectures** in Unity.
-
-I believe in learning by building — every project I make, whether it’s a small prototype or a full gameplay system, helps me grow as a developer and storyteller.  
-I’m currently looking for a **5-6 month internship for Summer 2025**, and later a **work-study position starting September 2025** in game programming.
+Currently looking for a **5-6 month internship (Summer 2026)** and a **work-study position (September 2026)**.
 
 ---
 
-## 🚀 Projects
+## Technical Spotlight
 
-### ✅ Finished Projects
+### Featured Projects
+* **[Boids Simulation](https://github.com/yumisakii/Boids)** (Unity 6 / C#)
+    An exploration of emergent behaviors and flocking algorithms. Focuses on object-oriented design and real-time parameter manipulation via custom inspectors.
+* **[Inventory System](https://github.com/yumisakii/InventorySystem)** (Unity / C#)
+    A robust, data-driven inventory framework featuring stackable items, rarity tiers, and a modular UI. Built to be easily dropped into any RPG project.
 
-#### 🐦 [Boids Simulation](https://github.com/yumisakii/Boids)
-A Unity 6 simulation project inspired by **flocking behavior** in nature.  
-Built entirely in C# to explore **object-oriented design**, **emergent behavior**, and **parameter tuning via the Unity Inspector**.  
-> Focused on class inheritance, behavior modularity, and real-time control.
-
-#### 🧰 [Inventory System (from *Chymora*)](https://github.com/yumisakii/InventorySystem)
-A complete **inventory system prototype** built for the *Chymora* RPG project.  
-Features **stackable items**, **drag & drop**, **item rarity**, and a **modular UI**.  
-> Designed for extensibility and easy integration into larger Unity projects.
+### In Development
+* **[Deep in His Sanctuary](https://github.com/yumisakii/DeepInHisSanctuary)**
+    A 2D Roguelike transition from a text-based prototype to a full Unity 6 experience. I'm currently implementing JSON-based data persistence and combat systems.
 
 ---
 
-### 🔧 In Progress
+## Game Jams & Events
+> I love the challenge of building something playable in a very short timeframe.
 
-#### ⚔️ [Deep in His Sanctuary](https://github.com/yumisakii/DeepInHisSanctuary)
-A **2D roguelike game built in Unity 6**, based on a previous text-based prototype.  
-Currently focused on **combat, loot, and data persistence** systems using JSON serialization.  
-> The project aims to evolve into a complete and replayable roguelike experience.
-
----
-
-## 🧠 Skills
-
-| Category | Tools / Technologies |
-|-----------|----------------------|
-| **Languages** | C#, C++ |
-| **Engine** | Unity 6 |
-| **Tools** | Visual Studio, Git, Trello, Figma |
-| **Concepts** | Gameplay Programming, AI, UI Systems, Data Persistence, OOP |
+### [Name of the Game Jam] — [Date]
+* **Theme:** [Insert Theme]
+* **Role:** Lead Programmer / Gameplay Dev
+* **Project:** [Link to the project if available]
+* **Takeaway:** Implemented a [Specific Mechanic] under a 48h deadline. It was a great lesson in scope management and quick prototyping :)
 
 ---
 
-## 🧩 GitHub Stats
+## Toolbox
 
-![Jonathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yumisakii&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yumisakii&layout=compact&theme=tokyonight)
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | C#, C++, SQL |
+| **Engine** | Unity 6 (URP/HDRP) |
+| **Workflow** | Git (GitHub/GitKraken), Visual Studio, Trello, Figma |
+| **Core Skills** | OOP, AI Design, UI Systems, Data Persistence |
 
 ---
 
-## ✉️ Contact
+## Find Me Online
 
-📧 [jonathan.devaulchier.dev@gmail.com](mailto:jonathan.devaulchier.dev@gmail.com)  
-🔗 [LinkedIn](linkedin.com/in/jonathan-de-vaulchier-182a35293)  
-🎓 [Gaming Campus – G.Tech](https://gamingcampus.fr/ecoles/ecole-developpeur-jeux-video-g-tech.html)
+* **Email:** [jonathan.devaulchier.dev@gmail.com](mailto:jonathan.devaulchier.dev@gmail.com)
+* **LinkedIn:** [jonathan-de-vaulchier-182a35293](https://linkedin.com/in/jonathan-de-vaulchier-182a35293)
+* **GitHub Stats:**
+
+![Jonathan's Stats](https://github-readme-stats.vercel.app/api?username=yumisakii&show_icons=true&theme=tokyonight&hide_border=true)
