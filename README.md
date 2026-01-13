@@ -3,7 +3,7 @@
 
 I am a French game development student specializing in **systems design**, **AI behaviors**, and **gameplay programming**. I focus on writing modular, scalable C# code and building tools that bridge the gap between design and implementation.
 
-Currently looking for a **5-6 month internship (Summer 2026)** and a **work-study position (September 2026)**.
+Currently looking for a **5-6 month internship (Summer 2026)** and a full-time position (CDI) starting September 2026.
 
 ---
 
@@ -24,11 +24,10 @@ Currently looking for a **5-6 month internship (Summer 2026)** and a **work-stud
 ## Game Jams & Events
 > I love the challenge of building something playable in a very short timeframe.
 
-### [Name of the Game Jam] — [Date]
-* **Theme:** [Insert Theme]
-* **Role:** Lead Programmer / Gameplay Dev
-* **Project:** [Link to the project if available]
-* **Takeaway:** Implemented a [Specific Mechanic] under a 48h deadline. It was a great lesson in scope management and quick prototyping :)
+### It's not a bug, it's a feature ! — 11/2025
+* **Role:** Gameplay Dev
+* **Project:** https://github.com/MagnierHugo/LegendOfGevievre
+* **Takeaway:** Implemented the movement of a mob, different weapons and some intended bugs under a 48h deadline. It was a great lesson in scope management and quick prototyping :)
 
 ---
 
