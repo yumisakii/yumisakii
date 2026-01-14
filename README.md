@@ -7,7 +7,7 @@ Currently looking for a **5-6 month internship** (Summer 2026) and a **full-time
 
 ---
 
-## Technical Spotlight
+## My Projects
 
 ### Featured Projects
 * **[Boids Simulation](https://github.com/yumisakii/Boids)** (Unity 6 / C#)
