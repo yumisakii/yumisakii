@@ -1,5 +1,5 @@
 # Jonathan de Vaulchier
-### Game Programmer | 3rd Year Student @ G.Tech (Gaming Campus)
+### Game Programmer | 3rd Year Student at G.Tech (Gaming Campus)
 
 I am a French game development student specializing in **systems design**, **AI behaviors**, and **gameplay programming**. I focus on writing modular, scalable C# code and building tools that bridge the gap between design and implementation.
 
