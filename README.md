@@ -8,7 +8,7 @@ My focus is on creating responsive gameplay systems, handling physics-based inte
 
 ---
 
-## 🛠 Featured Projects
+## Featured Projects
 
 ### [Physics Tower Defense](LINK_TO_REPO) (Unreal Engine 5 / Blueprints)
 > *When Tower Defense meets Physics Simulation.*
