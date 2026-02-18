@@ -51,7 +51,7 @@ A Shoot'em Up built without a commercial engine to understand low-level architec
 | **Engines** | **Unity 6** (C#), **Unreal Engine 5** (Blueprints/C++) |
 | **Languages** | C#, C++, Python (Basics) |
 | **Core Skills** | System Design, Physics (Unity/Chaos), 3C, Gameplay Algorithms |
-| **Tools** | Git/GitHub, Visual Studio, JetBrains Rider, Figma |
+| **Tools** | Git/GitHub, Visual Studio, Figma |
 
 ---
 
