@@ -59,4 +59,4 @@ A Shoot'em Up built without a commercial engine to understand low-level architec
 
 * **Email:** [jonathan.devaulchier.dev@gmail.com](mailto:jonathan.devaulchier.dev@gmail.com)
 * **LinkedIn:** [Jonathan de Vaulchier](https://www.linkedin.com/in/jonathan-de-vaulchier-182a35293/)
-* **Portfolio:** [Link to your Itch.io or Website if you have one]
+* **Portfolio:** [My Portfolio](https://jonathan-de-vaulchier-portfolio.notion.site/Home-0037a49e67748357a5ea011f785157bf?source=copy_link)
