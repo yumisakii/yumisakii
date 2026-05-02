@@ -6,6 +6,7 @@ My focus is on creating responsive gameplay systems, handling physics-based inte
 
 **Status:** Looking for a **6-month internship** (Starting May 2026) and a **full-time position (CDI)** afterwards.
 
+[Portfolio](https://jonathan-de-vaulchier-portfolio.notion.site/Home-0037a49e67748357a5ea011f785157bf?source=copy_link)
 ---
 
 ## Featured Projects
